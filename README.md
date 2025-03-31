@@ -1,25 +1,33 @@
 <div align="center">
-<h1>Project Name <img src="XXX" width="30"></h1>
-<h3>Short Description of Project </h3>
+<h1> Reconsidering Parking Slot Detection: Robust, Scalable, User-Friendly
+and End-to-End Framework </h1>
 
-[Author Name](<!-- Author GitHub Link -->)<sup><!-- Affiliation Numbers --></sup> \*, [Author Name](<!-- Author Google Scholar Link -->)<sup><!-- Affiliation Numbers --></sup> \*, [Author Name](<!-- Author GitHub Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author GitHub Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author Google Scholar Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author Google Scholar Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author Google Scholar Link -->)<sup><!-- Affiliation Numbers --></sup>, [Author Name](<!-- Author Link -->)<sup><!-- Affiliation Numbers --></sup>
+[Zhenjie Duan](), [Yaoming Zhuang](), [Yifan Chao]() , [Pengcheng Zhu](),[Li Li](), [Chengdong Wu](), [Zhanlin Liu]()
+ 
 
-<sup><!-- Affiliation Number 1 --> </sup> <!-- Affiliation 1 Description -->, <sup><!-- Affiliation Number 2 --> </sup> <!-- Affiliation 2 Description -->, <sup><!-- Affiliation Number 3 --> </sup> <!-- Affiliation 3 Description -->
-
-(\*) equal contribution, (<sup>:email:</sup>) corresponding author.
-
-ArXiv Preprint ([arXiv Link](<!-- Arxiv Link -->))
-
-[openreview **XXX'<!-- Year -->**](<!-- OpenReview Link -->), accepted as **XXX**
-
-extended ArXiv Preprint **XXX** ([arXiv Link](<!-- Extended Arxiv Link -->)), accepted to [**XXX**](<!-- XXX Link -->)
-<img src="./media/3dgs1.png" width="800"/>
 
 ## Introduction
 
 <div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
 
-![framework](./media/3dgs1.png "framework")
+![framework](media\framework.png "framework")
+
+Accurate parking slot detection is crucial for
+autonomous valet parking and intelligent driving, directly
+impacting safety and efficiency. However, most existing methods
+rely on VAM images, making them susceptible to image distortion and vehicle occlusion. Additionally, many approaches
+independently regress corner points without considering the
+overall parking slot structure, limiting detection accuracy and
+necessitating post-processing. To address these challenges, we
+propose BEV-PolyNet, a novel end-to-end detection framework.
+By leveraging surround-view images to generate BEV feature,
+our method mitigates distortion and occlusion issues. We
+introduce a polygonal modeling approach that preserves the
+integrity of parking slots while accommodating complex shapes.
+Furthermore, we enhance detection accuracy and convergence
+speed by initializing query vectors with features from surroundview monitoring images, combined with location prior encoding.
+Extensive experiments on the public PS2.0 dataset and a private
+LPD dataset validate the effectiveness of BEV-PolyNet, demonstrating its superior performance in parking slot detection.
 
 ---
 
