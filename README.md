@@ -10,7 +10,7 @@
 
 ArXiv Preprint ([arXiv Link](<!-- Arxiv Link -->))
 
-[openreview ICLR'<!-- Year -->](<!-- OpenReview Link -->), accepted as **XXX**
+[openreview XXX'<!-- Year -->](<!-- OpenReview Link -->), accepted as **XXX**
 
 extended ArXiv Preprint XXX ([arXiv Link](<!-- Extended Arxiv Link -->)), accepted to [**XXX**](<!-- XXX Link -->)
 <img src="./media/3dgs1.png" width="800"/>
@@ -19,6 +19,10 @@ extended ArXiv Preprint XXX ([arXiv Link](<!-- Extended Arxiv Link -->)), accept
 <div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
 
 ![framework](./media/3dgs1.png "framework")
+
+
+[![](https://i.ytimg.com/vi/c7IVaQi643g/maxresdefault.jpg)](https://www.youtube.com/watch?v=c7IVaQi643g "")
+
 
 .....
 
