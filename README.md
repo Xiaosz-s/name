@@ -16,6 +16,7 @@ extended ArXiv Preprint **XXX** ([arXiv Link](<!-- Extended Arxiv Link -->)), ac
 <img src="./media/3dgs1.png" width="800"/>
 
 ## Introduction
+
 <div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
 
 ![framework](./media/3dgs1.png "framework")
@@ -24,7 +25,9 @@ extended ArXiv Preprint **XXX** ([arXiv Link](<!-- Extended Arxiv Link -->)), ac
 
 ## 🎥 Demonstration Video
 
+
 https://github.com/user-attachments/assets/40e59492-0aaf-4fa3-a470-15c69a6b9909
+
 ---
 
 ## Dataset
