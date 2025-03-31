@@ -8,7 +8,7 @@ and End-to-End Framework </h1>
 ## Introduction
 <div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
 
-![framework](media/framework.png "framework")
+![framework](/media/framework.png "framework")
 
 Accurate parking slot detection is crucial for
 autonomous valet parking and intelligent driving, directly
