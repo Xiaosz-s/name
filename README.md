@@ -21,6 +21,7 @@ extended ArXiv Preprint XXX ([arXiv Link](<!-- Extended Arxiv Link -->)), accept
 ![framework](./media/3dgs1.png "framework")
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 
