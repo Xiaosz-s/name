@@ -25,7 +25,6 @@ extended ArXiv Preprint **XXX** ([arXiv Link](<!-- Extended Arxiv Link -->)), ac
 ## 🎥 Demonstration Video
 
 
-
 ---
 
 ## Dataset
@@ -33,13 +32,13 @@ extended ArXiv Preprint **XXX** ([arXiv Link](<!-- Extended Arxiv Link -->)), ac
 We restructured the datasets. For the **PS2.0 dataset**, we converted the original `.mat` format to `.pkl`. For the **PIL-Park Dataset**, we used data with parking spaces fully visible in the images, selecting the relevant data and converting the `.txt` labels to `.pkl` format.
 
 ### 📁 PS2.0 Dataset Usage Instructions
-- The `.pkl` file contains `keypoint_results` for each parking space entrance line with two keypoints.
-  - [Download PS2.0 Dataset](https://drive.google.com/file/d/1zR3kmKvUZg0l85NDVan_JVF_bEnaepPw/view?usp=sharing)
+The `.pkl` file contains `keypoint_results` for each parking space entrance line with two keypoints.
+[Download PS2.0 Dataset](https://drive.google.com/file/d/1zR3kmKvUZg0l85NDVan_JVF_bEnaepPw/view?usp=sharing)
 
 ---
 
 ### 📁 PIL-Park Dataset Usage Instructions
-- The `.pkl` file contains `keypoint_results` for each parking space with four keypoints and a center point.
-  - [Download PIL-Park Dataset](https://drive.google.com/file/d/1Ux4blvcuS9cxg3133NzYC1tekupLc44m/view?usp=sharing)
+The `.pkl` file contains `keypoint_results` for each parking space with four keypoints and a center point.
+[Download PIL-Park Dataset](https://drive.google.com/file/d/1Ux4blvcuS9cxg3133NzYC1tekupLc44m/view?usp=sharing)
 ---
 
