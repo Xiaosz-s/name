@@ -3,11 +3,9 @@
 and End-to-End Framework </h1>
 
 [Zhenjie Duan](), [Yaoming Zhuang](), [Yifan Chao]() , [Pengcheng Zhu](),[Li Li](), [Chengdong Wu](), [Zhanlin Liu]()
- 
 
-
+ ---
 ## Introduction
-
 <div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
 
 ![framework](media/framework.png "framework")
@@ -39,7 +37,6 @@ https://github.com/user-attachments/assets/40e59492-0aaf-4fa3-a470-15c69a6b9909
 ---
 
 ## Dataset
-
 We restructured the datasets. For the **PS2.0 dataset**, we converted the original `.mat` format to `.pkl`. For the **PIL-Park Dataset**, we used data with parking spaces fully visible in the images, selecting the relevant data and converting the `.txt` labels to `.pkl` format.
 
 ### 📁 PS2.0 Dataset Usage Instructions
@@ -47,8 +44,6 @@ We restructured the datasets. For the **PS2.0 dataset**, we converted the origin
 The `.pkl` file contains `keypoint_results` for each parking space entrance line with two keypoints.
 
 [Download PS2.0 Dataset](https://drive.google.com/file/d/1zR3kmKvUZg0l85NDVan_JVF_bEnaepPw/view?usp=sharing)
-
----
 
 ### 📁 PIL-Park Dataset Usage Instructions
 
