@@ -9,6 +9,10 @@ and End-to-End Framework </h1>
 <h4><!-- Project Short Description or Slogan --></h4></div>
 
 ![framework](/media/framework.png "framework")
+“`html
+[点击此处下载PDF文件](https://github.com/Xiaosz-s/name/blob/main/media/framework.pdf)
+“`
+
 
 Accurate parking slot detection is crucial for
 autonomous valet parking and intelligent driving, directly
