@@ -10,6 +10,8 @@ and End-to-End Framework </h1>
 
 ![framework](/media/framework.png "framework")
 
+https://github.com/Xiaosz-s/name/blob/main/media/framework.pdf
+
 Accurate parking slot detection is crucial for
 autonomous valet parking and intelligent driving, directly
 impacting safety and efficiency. However, most existing methods
