@@ -6,7 +6,7 @@ and End-to-End Framework </h1>
 
  ---
 ## Introduction
-<div align="center"><h4><!-- Project Short Description or Slogan --></h4></div>
+<h4><!-- Project Short Description or Slogan --></h4></div>
 
 ![framework](/media/framework.png "framework")
 
