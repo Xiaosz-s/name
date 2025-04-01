@@ -31,8 +31,7 @@ LPD dataset validate the effectiveness of BEV-PolyNet, demonstrating its superio
 
 ## 🎥 Demonstration Video
 
-
-https://github.com/user-attachments/assets/40e59492-0aaf-4fa3-a470-15c69a6b9909
+https://github.com/user-attachments/assets/a85dd69e-3b2c-44a9-8012-6ef3f509f9d6
 
 ---
 
