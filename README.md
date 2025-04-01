@@ -2,11 +2,10 @@
 <h1> Reconsidering Parking Slot Detection: Robust, Scalable, User-Friendly
 and End-to-End Framework </h1>
 
-Zhenjie Duan<sup>a*</sup>, [Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/) <sup>a*#</sup>,  Yifan Chao<sup>c</sup> , Pengcheng Zhu<sup>a</sup>,Li Li<sup>a</sup>, Chengdong Wu<sup>a</sup>, Zhanlin Liu<sup>b</sup>
+Zhenjie Duan<sup>a*</sup>, [Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/) <sup>a*#</sup>,  Yifan Chao<sup>a</sup> , Pengcheng Zhu<sup>a</sup>,Li Li<sup>a</sup>, Chengdong Wu<sup>a</sup>, Zhanlin Liu<sup>b</sup>
 
 <sup>a</sup> Northeastern University,
-<sup>b</sup> AstrumU,
-<sup>c</sup> Xi’an University of Science and Technology
+<sup>b</sup> AstrumU
 
 
 <sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author.
