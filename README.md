@@ -1,6 +1,6 @@
 <div align="center">
-<h1> Reconsidering Parking Slot Detection: Robust, Scalable, User-Friendly
-and End-to-End Framework </h1>
+<h1> BEV-PolyNet: BEV-Based Polygonal End to End Parking Slot Detection
+Framework </h1>
 
 Zhenjie Duan<sup>a*</sup>, [Yaoming Zhuang](http://faculty.neu.edu.cn/zhuangyaoming/) <sup>a*#</sup>,  Yifan Chao<sup>a</sup> , Pengcheng Zhu<sup>a</sup>,Li Li<sup>a</sup>, Chengdong Wu<sup>a</sup>, Zhanlin Liu<sup>b</sup>
 
